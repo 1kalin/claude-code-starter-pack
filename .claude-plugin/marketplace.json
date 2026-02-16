@@ -1,0 +1,19 @@
+{
+  "name": "1kalin",
+  "owner": {
+    "name": "Kalin Smolichki",
+    "email": "kalin@1kalin.com"
+  },
+  "plugins": [
+    {
+      "name": "starter-pack",
+      "source": "./claude-plugins/starter-pack",
+      "description": "Production-ready commands and agents for any project: debugging, orchestration, delegation, specs, testing, commits, and more",
+      "version": "0.1.0",
+      "author": {
+        "name": "Kalin Smolichki",
+        "email": "kalin@1kalin.com"
+      }
+    }
+  ]
+}

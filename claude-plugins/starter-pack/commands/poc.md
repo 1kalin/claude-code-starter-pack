@@ -1,3 +1,7 @@
+---
+description: Validate technical feasibility before full implementation
+---
+
 # PoC Command
 
 Proof of Concept - validate technical feasibility before full implementation.

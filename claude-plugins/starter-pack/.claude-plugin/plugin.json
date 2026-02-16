@@ -1,0 +1,9 @@
+{
+  "name": "starter-pack",
+  "version": "0.1.0",
+  "description": "Production-ready commands and agents for any project: debugging, orchestration, delegation, specs, testing, commits, and more",
+  "author": {
+    "name": "Kalin Smolichki",
+    "email": "kalin@1kalin.com"
+  }
+}

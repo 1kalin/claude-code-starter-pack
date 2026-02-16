@@ -1,3 +1,7 @@
+---
+description: Load essential project context (principles, architecture, agents)
+---
+
 # Start Command
 
 Load essential project context for efficient work.
